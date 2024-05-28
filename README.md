@@ -1,1 +1,1 @@
-# gitimpact-deploy
+This project is about training.
